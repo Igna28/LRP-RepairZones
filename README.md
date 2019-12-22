@@ -1,5 +1,5 @@
 # LRP-RepairZones
-ESX Script that allows you to repair your vehicle on certains areas for LATAMRP server.
+ESX Script that allows you to repair your vehicle at locations for a price. LATAMRP server.
 
 # Installation
 
