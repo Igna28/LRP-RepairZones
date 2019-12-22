@@ -15,4 +15,4 @@ Start using start ```LRP-RepairZones```
 
 # Configuration
 
-The script have a lot of configurations to setting as you desire. Labels, commands, price, whitelisted jobs etc.
+The script have a lot of configurations to setting as you desire. Labels, zones, price, whitelisted jobs etc.
