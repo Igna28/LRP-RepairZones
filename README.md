@@ -1,11 +1,15 @@
 # LRP-RepairZones
-ESX Script that allows you to repair your vehicle in certains areas for LATAMRP server.
+ESX Script that allows you to repair your vehicle on certains areas for LATAMRP server.
 
 # Installation
 
 Add to resource folder ```[esx]```
 
 Start using ```start LRP-RepairZones```
+
+# Usage
+
+Using /repair on the certains areas (default command, you can change it in the config.lua)
 
 # Requirements
 
