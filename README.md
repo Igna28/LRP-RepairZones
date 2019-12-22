@@ -9,7 +9,7 @@ Start using ```start LRP-RepairZones```
 
 # Usage
 
-Using /repair on the certains areas (default command, you can change it in the config.lua)
+Using ```/repair``` on the certains areas (default command, you can change it in the config.lua)
 
 # Requirements
 
@@ -17,6 +17,6 @@ Using /repair on the certains areas (default command, you can change it in the c
 * [progressBars](https://github.com/torpidity/progressBars/releases/tag/1.0)
 * [mythic_notify](https://github.com/mythicrp/mythic_notify)
 
-# Configuration
+# Config.lua
 
 The script have a lot of configurations to setting as you desire. Labels, zones, price, whitelisted jobs etc.
