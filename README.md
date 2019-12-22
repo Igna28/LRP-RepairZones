@@ -5,7 +5,7 @@ ESX Script that allows you to repair your vehicle in certains areas for LATAMRP 
 
 Add to resource folder ```[esx]```
 
-Start using start ```LRP-RepairZones```
+Start using ```start LRP-RepairZones```
 
 # Requirements
 
