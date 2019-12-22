@@ -35,12 +35,12 @@ local function isPedDrivingAVehicle() -- Function from RealVehicleDamage
 end
 
 local function IsCloseToRepairZone()
-    for i = 1, #Config.RepairZone do
-        local plyCoords = GetEntityCoords(GetPlayerPed(-1))
-        local distance = GetDistanceBetweenCoords(Config.RepairZone[i].x, Config.RepairZone[i].y, Config.RepairZone[i].z,  plyCoords["x"], plyCoords["y"], plyCoords["z"], true)
-        if distance <= Config.RepairDistanceAroundBlip then
-        	return true
-       	end
+    	for i = 1, #Config.RepairZone do
+		local plyCoords = GetEntityCoords(GetPlayerPed(-1))
+		local distance = GetDistanceBetweenCoords(Config.RepairZone[i].x, Config.RepairZone[i].y, Config.RepairZone[i].z,  plyCoords["x"], plyCoords["y"], plyCoords["z"], true)
+		if distance <= Config.RepairDistanceAroundBlip then
+			return true
+		end
 	end
 	return false
 end
