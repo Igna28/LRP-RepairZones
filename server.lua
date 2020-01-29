@@ -2,7 +2,7 @@ ESX = nil
 
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
-RegisterCommand(Config.Command, function(source, args, raw)
+RegisterCommand('repair', function(source, args, raw)
     TriggerClientEvent('LRP-RepairZone:Repair', source)
 end)
 
