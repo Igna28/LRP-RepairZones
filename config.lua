@@ -8,7 +8,6 @@ Config.ProgressBarTime = 10000
 
 -- Language Labels
 Config.BlipLabel = 'Repair Zone'
-Config.Command = 'repair'
 Config.SuggestionCommand = '/repair'
 Config.SuggestionLabel = '[RepairZone] Repair Vehicle'
 Config.ProgressLabel = 'Repairing Vehicle'
