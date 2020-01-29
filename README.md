@@ -9,7 +9,7 @@ Start using ```start LRP-RepairZones```
 
 # Usage
 
-Using ```/repair``` on the certains areas (default command, you can change it in the config.lua)
+Use ```/repair``` on the certains areas (default command, you can change it in the server.cfg)
 
 # Requirements
 
