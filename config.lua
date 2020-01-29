@@ -11,7 +11,6 @@ Config.BlipLabel = 'Repair Zone'
 Config.SuggestionCommand = '/repair'
 Config.SuggestionLabel = '[RepairZone] Repair Vehicle'
 Config.ProgressLabel = 'Repairing Vehicle'
-Config.ProgressBarTime = 10000
 
 Config.RepairZone = {
 	[1] = { ["x"] = -337.0,["y"] = -135.0, ["z"] = 39.0},
